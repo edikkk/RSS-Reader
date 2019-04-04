@@ -7,8 +7,7 @@ using RSS_Reader;
 namespace RSS_Reader
 {
     class Program
-    {           /* TODO: LIST OF URLS EXTENSION
-                         CONFIG FILE W/ SEPERATE RSS FEEDS */
+    {
         public const string TXT = "\\rss.txt";            
         private static void Main(string[] args)
         {
