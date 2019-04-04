@@ -27,5 +27,4 @@ namespace RSS_Reader
             set{ url = value; }
         }
     }
-
 }

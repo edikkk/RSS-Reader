@@ -25,17 +25,6 @@ namespace RSS_Reader
 
             return xmlList;
         }
-        /* static public List<XML> TestConcatXMLList(params List<XML>[] xmlLists)
-        {
-            List<XML> baseList = new List<XML>();
-            foreach (List<XML> list in xmlLists)
-            {
-                baseList.Concat(list);
-            }
-            baseList.Insert(0, new XML("",""));
-
-            return baseList;
-        }*/
         static public XmlDocument SingleDownloader(string url)
         {
             XmlDocument xmlDoc = new XmlDocument();
