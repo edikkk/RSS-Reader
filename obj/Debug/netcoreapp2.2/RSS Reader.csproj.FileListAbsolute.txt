@@ -1,0 +1,4 @@
+C:\Users\Edik\Desktop\dev\c#\RSS Reader\obj\Debug\netcoreapp2.2\RSS Reader.csprojAssemblyReference.cache
+C:\Users\Edik\Desktop\dev\c#\RSS Reader\obj\Debug\netcoreapp2.2\RSS Reader.csproj.CoreCompileInputs.cache
+C:\Users\Edik\Desktop\dev\c#\RSS Reader\obj\Debug\netcoreapp2.2\RSS Reader.AssemblyInfoInputs.cache
+C:\Users\Edik\Desktop\dev\c#\RSS Reader\obj\Debug\netcoreapp2.2\RSS Reader.AssemblyInfo.cs
