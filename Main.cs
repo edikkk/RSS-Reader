@@ -34,6 +34,9 @@ namespace RSS_Reader
                     catch (Exception e)
                     {
                         Console.WriteLine(e.Message);
+                        Console.WriteLine("Press Enter to Exit");
+                        Console.ReadKey();
+                        Environment.Exit(1337);
                     }
                 }
                 Console.Clear();
